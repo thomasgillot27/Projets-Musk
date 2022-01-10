@@ -1,0 +1,52 @@
+html body{
+    margin: 0;padding: 0;
+    background-image: url("../img/background.jpg");
+    font-family: arial;
+}
+
+.inner{
+    width: 80%;
+    margin: 0 0 0 20%;
+}
+
+.titre_page{
+    position:relative;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 40px;
+}
+
+.titre_question{
+    position:relative;
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+.paragraphe_musk{
+    position: relative;
+    padding: 0 15% 0 20%;
+    text-align: left;
+    font-size: 25px;
+}
+
+.paragraphe_paypal{
+    position: relative;
+    padding: 0 25% 0 3%;
+    font-size: 25px;
+}    
+
+.img_musk{
+    padding: 0 0 0 0;
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.img_paypal{
+    padding: 0 0 0 5%;
+    max-width: 95%;
+    max-height: 95%;
+}  
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
