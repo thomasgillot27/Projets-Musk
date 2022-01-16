@@ -1,0 +1,39 @@
+html body{
+    margin: 0;padding: 0;
+    background-image: url("../img/background.jpg");
+    font-family: arial;
+}
+
+.inner{
+    width: 80%;
+    margin: 0 0 0 20%;
+}
+
+.titre_page{
+    position:relative;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 45px;
+}
+
+.titre_question{
+    position:relative;
+    font-size: 35px
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+.idframe{
+    text-align: center;
+    margin: 30px;
+}
+
+.autopilot{
+    width: 80%;
+    margin: auto;
+    font-size: 20px;
+    text-align: center; justify;
+    position: relative
+        
+}
