@@ -1,6 +1,7 @@
 html body{
     margin: 0;padding: 0;
     background-image: url("../img/background.jpg");
+    background-size: cover;
     font-family: arial;
 }
 
@@ -29,11 +30,11 @@ html body{
     margin: 30px;
 }
 
-.autopilot{
-    width: 80%;
+.paragraphe_center{
+    width: 90%;
     margin: auto;
     font-size: 20px;
     text-align: center; justify;
-    position: relative
-        
+    position: relative;
 }
+
