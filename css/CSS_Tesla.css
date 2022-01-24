@@ -34,7 +34,13 @@ html body{
     width: 90%;
     margin: auto;
     font-size: 20px;
-    text-align: center; justify;
-    position: relative;
+    text-align: center;
+}
+
+.img_cars{
+    margin: 25px;
+    text-align: center;
+    max-width: 30%;
+    min-height: 0%;
 }
 
