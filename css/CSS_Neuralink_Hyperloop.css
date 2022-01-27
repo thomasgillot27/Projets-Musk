@@ -1,5 +1,5 @@
 html body{
-    margin: 0; padding: 0; height: 0;
+    margin: 0;padding: 0;
     background-image: url("../img/background.jpg");
     background-size: 100% 100%;
     font-family: arial;
@@ -25,15 +25,11 @@ html body{
 /*----------------------------------------------------------------------------*/
 /*----------------------------------------------------------------------------*/
 
-.paragraphe_musk{
-    text-align: justify;
-    font-size: 25px;
-}
-
-.img_musk{
-    padding: 0 0 0 1%;
-    max-width: 50%;
-    max-height: 50%;
+.paragraphe_center{
+    width: 90%;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;  
 }
 
 .img_neuralink{
@@ -42,10 +38,13 @@ html body{
     max-height: 30%;
 }
 
-.paragraphe_center{
-    width: 90%;
-    margin: auto;
+.paragraphe_hyperloop{
+    text-align: justify;
     font-size: 20px;
-    text-align: center;  
 }
 
+.img_hyperloop{
+    padding: 0 0 0 1%;
+    max-width: 50%;
+    max-height: 50%;
+}

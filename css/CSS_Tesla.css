@@ -1,5 +1,5 @@
 html body{
-    margin: 0; padding: 0; height: 0;
+    margin: 0;padding: 0;
     background-image: url("../img/background.jpg");
     background-size: 100% 100%;
     font-family: arial;
@@ -40,7 +40,6 @@ html body{
 .img_cars{
     margin: 25px;
     text-align: center;
-    max-width: 30%;
-    min-height: 0%;
+    width: 30%; height: 30%;
 }
 
